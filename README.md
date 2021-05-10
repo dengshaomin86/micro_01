@@ -1,4 +1,4 @@
-# micro01
+# micro_01
 
 ## Project setup
 ```
